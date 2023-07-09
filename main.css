@@ -1,0 +1,159 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* 將瀏覽器預設的留白歸零 */
+    margin: 0px;
+}
+
+.container {
+    width: 1296px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+
+
+
+h1 {
+    font-size: 128px;
+    width: 370px;
+    line-height: 192px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+
+}
+
+h2 {
+    font-size: 128px;
+    line-height: 192px;
+    margin: 0;
+    text-align: end;
+}
+
+.section1 img {
+    height: 848px;
+    width: 636px;
+    margin-left: 330px;
+    margin-right: 330px;
+
+}
+
+.center_block {
+    height: 432px;
+    width: 100%;
+    background-color: #EFEFEF;
+
+}
+
+
+.center_block p {
+    font-size: 32px;
+    line-height: 48px;
+    width: 636px;
+    height: 336px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: auto;
+
+}
+
+
+
+.section2 {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    align-self: flex-start;
+
+}
+
+.section3 {
+    margin-top: 80px;
+}
+
+h3 {
+    font-size: 40px;
+    line-height: 57px;
+    color: #AE0000;
+    border-bottom: 3px solid #AE0000;
+
+    margin-left: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
+
+
+.info {
+    margin-top: 40px;
+    margin-bottom: 0;
+    width: 636px;
+}
+
+.info p {
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+h4 {
+    font-size: 20px;
+    line-height: 30px;
+    color: #949494;
+
+}
+
+
+.info div {
+    margin-top: 16px;
+
+}
+
+.info div h4,
+.info div p {
+    margin: 0;
+}
+
+.body_height {
+    margin-top: 160px;
+    margin-bottom: 160px;
+}
+
+
+
+.footer {
+    background-color: black;
+    height: 192px;
+    width: 100%;
+    bottom: 0;
+
+}
+
+
+
+.footer img {
+    width: 64px;
+    height: 64px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.footer_img {
+    height: 192px;
+    padding-left: 492px;
+    padding-right: auto;
+    padding-top: 64px;
+    padding-bottom: 64px;
+
+}
